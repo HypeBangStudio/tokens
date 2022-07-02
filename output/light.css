@@ -1,0 +1,18 @@
+.light-theme {
+  --light-fg-default: #000000;
+  --light-fg-muted: #4a5568;
+  --light-fg-subtle: #a0aec0;
+  --light-bg-default: #ffffff;
+  --light-bg-muted: #f7fafc;
+  --light-bg-subtle: #edf2f7;
+  --light-accent-default: #7f9cf5;
+  --light-shadows-default: #1a202c;
+  --dark-fg-default: #ffffff;
+  --dark-fg-muted: #e2e8f0;
+  --dark-fg-subtle: #a0aec0;
+  --dark-bg-default: #1a202c;
+  --dark-bg-muted: #4a5568;
+  --dark-bg-subtle: #718096;
+  --dark-accent-default: #5a67d8;
+  --dark-shadows-default: #f7fafc;
+}

@@ -1,0 +1,4 @@
+html,
+body {
+  @layer flex w-full h-full bg-theme-bg-default text-theme-fg-default;
+} 
